@@ -1,0 +1,30 @@
+@media (max-width: 576px) { 
+
+    .cabecalho {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 50px;
+    }
+    
+    .logo h1 {
+        font-size: 40px;
+    }
+
+    .lista {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 100px;
+        gap: 50px;
+    }
+
+    .lista a{
+        font-size: 40px;
+        padding: 17px 40px;
+    }
+
+    .botao {
+        font-size: 18px;
+        padding: 15px 20px;
+    }
+
+}

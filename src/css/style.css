@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: "Public Sans", sans-serif;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    padding: 45px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo h1 {
+    margin-left: 6px;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.lista {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.lista a {
+    padding: 10px;
+    font-weight: 400;
+}
+
+.lista a:hover{
+    background-color: var(--button-color);
+    color: #fff;
+}
+
+.lista a, .botao{
+    font-size: 15px;
+}
+
+.botao {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: var(--button-color);
+    color: #fff;
+    font-weight: 300;
+}
