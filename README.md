@@ -10,5 +10,5 @@ Durante a realização desse exercício não foi encontrada nenhuma dificuldade.
 #### Design Desktop
 ![Design do site](design/design-desktop.png)
 
-#### Design Desktop
+#### Design Mobile
 ![Design do site](design/design-mobile.png)
